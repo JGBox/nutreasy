@@ -28,3 +28,5 @@ Open [http://localhost:3000](http://localhost:3000) to see your application.
 
 ---
 Generated with [App Factory](https://github.com/your-username/app-factory)
+
+JG
